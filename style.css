@@ -9,6 +9,7 @@ nav{
     background-color: rgb(64, 123, 132);
     font-size: 1.2rem;
     color: whitesmoke;
+    padding: 0.01rem;
 }
 
 main{
@@ -28,4 +29,6 @@ img{
     height: 7em;
     cursor: pointer;
     margin: 0 1% 0 1%;
+    border: none;
+    outline: none;
 }
