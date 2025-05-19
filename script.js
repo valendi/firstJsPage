@@ -1,3 +1,9 @@
+function loadPage() {
+    console.log("Página completamente cargada.");
+  }
+
+  window.addEventListener('load', loadPage);
+
 let images = document.getElementsByTagName("img");
 
 for (let img of images) {
